@@ -7,6 +7,7 @@ YouGame — Your Personal Game Completion Tracker
 YouGame helps gamers who play across multiple platforms (PC, Console, Mobile) and stores keep their entire gaming history in one place.
 
 Never forget how many games you've completed, how many hours you've spent, or which endings and DLCs you've experienced.
+
 <img width="640" alt="Main Screen" src="https://github.com/user-attachments/assets/627299ad-77b0-4fdb-a902-94e1fa48469d" />
 <img width="640" alt="yougame_3" src="https://github.com/user-attachments/assets/fac4ec31-ed64-4316-8a59-4e9c7272ae1a" />
 
