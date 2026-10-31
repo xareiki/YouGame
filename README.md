@@ -8,47 +8,47 @@ Never forget how many games you've completed, how many hours you've spent, or wh
 
 ---
 
-### 📱 Installation
+### Installation
 > **Note**: The app is **not published on Google Play Store**, so Android will show a warning *"App not verified"* or *"For your security"*. This is normal for all sideloaded applications.
 
 1. Download the APK from the link above.
 2. Allow installation from unknown sources (Settings → Apps → Special app access → Install unknown apps).
 3. Install the APK.
-4. Recommended: Check the file on [VirusTotal](https://www.virustotal.com) before installation (see screenshot at the bottom).
+4. Recommended: Check the file on [VirusTotal](https://www.virustotal.com) before installation.
 
 ---
 
-### ✨ Key Features
+### Key Features
 
 - **Personal Game Library** — Beautiful cards for every game you've finished.
-- **Quick Add** — Tap **+** on the home screen to create a new entry in seconds.
+- **Quick Add** — Tap **Find** on the home screen to create a new entry in seconds.
 - **Rich Game Card**:
-  - Title
-  - Cover image (from gallery)
-  - Playtime (hours + minutes)
-  - Your rating (stars)
-  - Completed DLCs
-  - Ending type (default: "Standard End Game")
-  - Platform (**PC / Console / Mobile**)
-  - Completion date + Favorite mark
+  - Title;
+  - Cover image (from gallery);
+  - Playtime (hours + minutes);
+  - Your rating (stars);
+  - Completed DLCs;
+  - Ending type (default: "Standard End Game");
+  - Platform (**PC / Console / Mobile**);
+  - Completion date + Favorite mark.
 
 - **Clean Home Screen** — All games with essential info at a glance.
 
-### 📊 Statistics
+### Statistics
 One tap and you get the most important insights:
-- Total games completed
-- Total hours spent
-- Total DLCs completed
-- Total endings
-- Top 3 highest rated games
-- Top 3 lowest rated games
+- Total games completed;
+- Total hours spent;
+- Total DLCs completed;
+- Total endings;
+- Top 3 highest rated games (last);
+- Top 3 lowest rated games (last).
 
-### 💾 Backup & Restore
+### Backup & Restore
 - **Save Backup** → creates a `.json` file with all your data
 - **Load Backup** → instantly restores everything
 - *Note: Images are not included in backup. Keep your game covers in a separate folder.*
 
-### 🎨 Modern & Adaptive Design
+### Modern & Adaptive Design
 - **Dynamic Colors** — The app automatically uses your system accent color.
 - App icon also changes according to system settings.
 
