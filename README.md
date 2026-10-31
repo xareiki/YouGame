@@ -53,15 +53,15 @@ One tap and you get the most important insights:
 - App icon also changes according to system settings.
 
 ---
-
 ### Screenshots
 
-<img width="640" alt="Main Screen" src="https://github.com/user-attachments/assets/627299ad-77b0-4fdb-a902-94e1fa48469d" />
-<img width="640" alt="Add Game Screen" src="https://github.com/user-attachments/assets/cec06299-f48a-4a57-8599-486f9962b644" />
-<img width="640" alt="Statistics Screen" src="https://github.com/user-attachments/assets/1a4ae5e1-0d3d-4258-8ce0-876d47f33205" />
-<img width="640" alt="Backup Screen" src="https://github.com/user-attachments/assets/1afa2756-fbea-4d84-af74-734100a56bb0" />
-<img width="640" alt="Dynamic Colors" src="https://github.com/user-attachments/assets/3596c657-969d-4348-984f-dc68b4a57a85" />
-<img width="640" alt="VirusTotal Clean" src="https://github.com/user-attachments/assets/a7033c20-5c7d-451e-8cae-723226a8e588" />
+| Main Screen | Find Game | You Game |
+| :-: | :-: | :-: |
+| <img width="240" alt="Main Screen" src="https://github.com/user-attachments/assets/1fb4aae3-fbf7-4dd7-bd1a-d5969c9f9ced" /> | <img width="240" alt="Find Game" src="https://github.com/user-attachments/assets/c8f79870-5641-4da5-9cc3-9ae95b23007b" /> | <img width="240" alt="You Game" src="https://github.com/user-attachments/assets/309c6d3d-9601-4dc1-84e7-39899f9c9d08" /> |
+
+| Statistics Screen | Backup Screen | Appearance |
+| :-: | :-: | :-: |
+| <img width="240" alt="Statistics Screen" src="https://github.com/user-attachments/assets/6d7ed562-d477-4e23-b479-2689fe8feec5" /> | <img width="240" alt="Backup Screen" src="https://github.com/user-attachments/assets/3d8c4d16-ac16-4c53-8f24-80efdbec41b5" /> | <img width="240" alt="Appearance" src="https://github.com/user-attachments/assets/ef0b071a-5d23-44ff-b315-c70237259af0" /> |
 
 ---
 
