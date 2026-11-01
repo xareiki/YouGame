@@ -46,7 +46,7 @@ One tap and you get the most important insights:
 ### Backup & Restore
 - **Save Backup** → creates a `.json` file with all your data
 - **Load Backup** → instantly restores everything
-- *Note: Images are not included in backup. Keep your game covers in a separate folder.*
+- *Note: Cover images are saved only in the new backup version (.zip)*
 
 ### Modern & Adaptive Design
 - **Dynamic Colors** — The app automatically uses your system accent color.
