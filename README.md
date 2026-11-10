@@ -1,6 +1,6 @@
 # YouGame — Your Personal Game Completion Tracker
 
-[![Download v1.0 APK](https://img.shields.io/badge/Download%20APK-v3.1-brightgreen?style=for-the-badge)](https://github.com/xareiki/YouGame/releases/latest/download/yougame_3_1_0.apk)
+[![Download v1.0 APK](https://img.shields.io/badge/Download%20APK-v3.2-brightgreen?style=for-the-badge)](https://github.com/xareiki/YouGame/releases/latest/download/yougame_3_2.apk)
 
 **YouGame** helps gamers who play across multiple platforms (PC, Console, Mobile) and different stores to keep their entire gaming history in one convenient place.
 
