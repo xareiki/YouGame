@@ -57,12 +57,13 @@ One tap and you get the most important insights:
 
 | Main Screen | Find Game | You Game |
 | :-: | :-: | :-: |
-| <img width="240" alt="Main Screen" src="https://github.com/user-attachments/assets/1fb4aae3-fbf7-4dd7-bd1a-d5969c9f9ced" /> | <img width="240" alt="Find Game" src="https://github.com/user-attachments/assets/c8f79870-5641-4da5-9cc3-9ae95b23007b" /> | <img width="240" alt="You Game" src="https://github.com/user-attachments/assets/309c6d3d-9601-4dc1-84e7-39899f9c9d08" /> |
+| <img width="240" alt="Main Screen" src="https://github.com/user-attachments/assets/e2a1050f-326c-4604-a0f0-4874007d2c7a" /> | <img width="240" alt="Find Game" src="https://github.com/user-attachments/assets/81b3d7ec-b208-40fd-b7d3-ded372574fed" /> | <img width="240" alt="You Game" src="https://github.com/user-attachments/assets/309c6d3d-9601-4dc1-84e7-39899f9c9d08" /> |
 
 | Statistics Screen | Backup Screen | Appearance |
 | :-: | :-: | :-: |
-| <img width="240" alt="Statistics Screen" src="https://github.com/user-attachments/assets/6d7ed562-d477-4e23-b479-2689fe8feec5" /> | <img width="240" alt="Backup Screen" src="https://github.com/user-attachments/assets/3d8c4d16-ac16-4c53-8f24-80efdbec41b5" /> | <img width="240" alt="Appearance" src="https://github.com/user-attachments/assets/ef0b071a-5d23-44ff-b315-c70237259af0" /> |
+| <img width="240" alt="Statistics Screen" src="https://github.com/user-attachments/assets/6d7ed562-d477-4e23-b479-2689fe8feec5" /> | <img width="240" alt="Backup Screen" src="https://github.com/user-attachments/assets/3337fee0-a015-4d65-b9c4-761fbfd23110" /> | <img width="240" alt="Appearance" src="https://github.com/user-attachments/assets/daf96afe-d58d-4250-9511-1098b76ea5f4" /> |
 
 ---
+
 
 **Made with ❤️ for gamers**
